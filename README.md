@@ -13,7 +13,8 @@ Skills: HTML / CSS / BOOTSTRAP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahm-rubayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rubayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahm_rubayed/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahm-rubayed&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahm-rubayed&show_icons=true)   -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahm-rubayed&show_icons=true&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/ahm-rubayed)  
 

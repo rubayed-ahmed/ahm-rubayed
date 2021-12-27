@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Rubayed Ahmed
 #### A passionate Web designer from Bangladesh
-![A passionate Web designer from Bangladesh](https://images.pexels.com/photos/7119103/pexels-photo-7119103.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![A passionate Web designer from Bangladesh](https://images.pexels.com/photos/7119103/pexels-photo-7119103.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800)
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.

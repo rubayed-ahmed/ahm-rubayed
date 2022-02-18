@@ -1,6 +1,5 @@
 ### Hi there 👋,  I'm Rubayed Ahmed
 #### A passionate Web designer from Bangladesh
-![A passionate Web designer from Bangladesh](https://images.pexels.com/photos/7119103/pexels-photo-7119103.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 Skills: HTML / CSS / BOOTSTRAP
 

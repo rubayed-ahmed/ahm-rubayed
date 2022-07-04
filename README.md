@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Rubayed Ahmed
-#### A passionate Web designer from Bangladesh
+#### A passionate Web Developer from Bangladesh
 
 Skills: HTML / CSS / BOOTSTRAP / Javascript / React / NodeJs
 

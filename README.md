@@ -1,7 +1,7 @@
 ### Hi there 👋,  I'm Rubayed Ahmed
 #### A passionate Web Developer from Bangladesh
 
-Skills: HTML / CSS / BOOTSTRAP / Javascript / React / NodeJs
+Skills: HTML / CSS / BOOTSTRAP / Tailwindcss / Javascript / React / NodeJs
 
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about Any web development related question 

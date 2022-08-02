@@ -9,7 +9,6 @@ Skills: HTML / CSS / BOOTSTRAP / Tailwindcss / Javascript / React / NodeJs
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahm-rubayed&show_icons=true&theme=radical)
 
-![GitHub metrics](https://metrics.lecoq.io/ahm-rubayed)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahm-rubayed)  
 

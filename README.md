@@ -3,7 +3,7 @@
 
 Skills: HTML / CSS / BOOTSTRAP / Tailwindcss / Javascript / React / NodeJS / MongoDB
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning React
 - 💬 Ask me about Any web development related question 
 - 📫 How to reach me: rubayedahmed04@gmail.com 
 
